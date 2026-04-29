@@ -40,7 +40,7 @@ jobs:
 
       - name: Install dependencies
         run: npm ci # Change to 'yarn install' or 'pnpm install' if needed
-        run: npm add name: Deploy Next.js site to Pages
+        run: npm add lucide-react@latest
 
 on:
   push:
