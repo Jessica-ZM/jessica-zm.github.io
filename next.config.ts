@@ -4,8 +4,7 @@ const nextConfig: NextConfig = {
   output: "export",
   images: {
     unoptimized: true,
-  },
-  basePath: "/videoweb",
+  }
 };
 
 export default nextConfig;
